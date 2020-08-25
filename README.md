@@ -9,7 +9,12 @@
 [<img align="left" alt="erikdrozina | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="Github Stats" src="https://github-readme-stats.erikdrozina.vercel.app/api?username=erikdrozina&show_icons=true&hide_border=true" />
+
+</details>
 [twitter]: https://twitter.com/erikdrozina
 [instagram]: https://instagram.com/erik.drxzina
 [telegram]: https://t.me/erikdrozina
