@@ -2,14 +2,4 @@
 
 ### I'm a young Italian student passionate about the tech world and always ready to learn
 
-### Connect with me:
-
-[<img align="left" alt="erikdrozina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="erikdrozina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="erikdrozina | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-<br />
-
-[twitter]: https://twitter.com/erikdrozina
-[instagram]: https://instagram.com/erik.drxzina
-[telegram]: https://t.me/erikdrozina
+### More info available on my [website](erikdrozina.com)
